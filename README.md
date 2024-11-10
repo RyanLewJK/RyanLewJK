@@ -1,2 +1,2 @@
-//Current year 1 student in Computer Science with no prior coding experience.
-//Studying in Malaysia, looking to transfer to the UK.
+//Current year 2 student in Computer Science
+//Studying in the university of leeds.
